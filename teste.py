@@ -4,4 +4,6 @@ def.andar=true
 
 def andar (self)
 print("ligar motor")
+print("carro andar")
+
 
